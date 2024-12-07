@@ -54,3 +54,4 @@ A documentação da react pode ser acessada no endereço https://reactjs.org, co
 Um ponto importante, se for conveniente, outra biblioteca pode ser utilizada no lugar a materializecss. Dado que ela é um framework front-end sua mudança não é de alto custo, portanto, não interfere abruptamente nos componentes de classe da react. Mas, deve-se lembrar que a GUI desenvolvida será acessada tanto por um navegador comum quando por um dispositivo móvel, portanto, o design precisa ser responsivo, obrigatoriamente.
 </p>
 # atividade4-poo
+# atividade4-poo
